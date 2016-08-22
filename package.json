@@ -1,0 +1,25 @@
+{
+  "name": "crunchdata",
+  "version": "0.0.1",
+  "description": "Node app to get data required from CruncBase API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ersel Aker",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "co": "^4.6.0",
+    "config": "^1.21.0",
+    "crunchbase2": "^1.0.0",
+    "delayed-request": "^1.0.0",
+    "fs": "0.0.2",
+    "json-override": "^0.2.0",
+    "json2xls": "^0.1.2",
+    "mongodb": "^2.2.7",
+    "request": "^2.74.0",
+    "url-parse": "^1.1.3",
+    "util": "^0.10.3"
+  }
+}

@@ -1,0 +1,7 @@
+data/company
+data/funding
+data/funding_output
+config/default.json
+node_modules
+data.xlsx
+*.log
